@@ -1,0 +1,5 @@
+  Тестирование API:	работа с Postman,
+  OC:			Базовые знания терминала Unix/Linux,
+  Базы данных SQL:	написание простых запросов,
+  Web-разработка:	HTML, CSS, JavaScript (React), github,
+  Сетевые технологии:	HTTP/HTTPS, DNS, TCP/IP,
